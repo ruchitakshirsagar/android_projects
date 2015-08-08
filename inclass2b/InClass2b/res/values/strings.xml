@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass2b</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rbBlack">Black</string>
+    <string name="rbWhite">White</string>
+    <string name="rbRed">Red</string>
+    <string name="rbGreen">Green</string>
+    <string name="rbBlue">Blue</string>
+    <string name="tvAlpha">Alpha</string>
+    <item type="id" name="tag_key_color"/>
+
+</resources>

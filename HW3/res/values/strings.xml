@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HW3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="applicationTitle">UNCC Photos</string>
+    <string name="photos">Photos</string>
+    <string name="slideShow">Slide Show</string>
+    <string name="title_activity_photo">Photos Activity</string>
+
+</resources>

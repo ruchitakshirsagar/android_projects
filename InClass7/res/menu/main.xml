@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mapsdemo.MainActivity" >
+
+   <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Touch here to see the menu."
+        android:layout_margin="20dip"
+        android:layout_gravity="center"
+        android:textColor="#0000ff"
+        android:id="@+id/anchor"/>
+
+  
+    <item  
+        android:id="@+id/one"  
+        android:title="Scan Bar Code"/>  
+      
+    <item  
+        android:id="@+id/two"  
+        android:title="Restart Hunt"/>  
+        
+          
+
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Midterm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="mpaaRatingTextView">mpaa rating</string>
+    <string name="year">Year</string>
+    <string name="movietitle">Movie Title</string>
+    <string name="movieTitleTextView"></string>
+    <string name="blankstring"></string>
+    <string name="mpaarating">mpaa rating</string>
+    <string name="InnerMovieTitle">Movie Title</string>
+    <string name="aud">Audience</string>
+    <string name="cri">Critics</string>
+
+</resources>

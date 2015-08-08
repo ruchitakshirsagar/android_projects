@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InClass3</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity">ActivityA</string>
+    <string name="title_activity_activity_b">ActivityB</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="HintString">Enter Number Here</string>
+    <string name="enterNoteMsg">Enter your note below</string>
+    <string name="blankHint"></string>
+    <string name="noOfChars">Number of characters entered:</string>
+    <string name="blankTextView"></string>
+    <string name="exit">Exit</string>
+    <string name="yourNote">Your Note</string>
+    <string name="upperCaseViaActivity">Uppercase via Activity</string>
+    <string name="backButton">Back</string>
+    <string name="Capitalize">Capitalize and Send Result</string>
+    <string name="CapitalizeLabel">Capitalize Activity</string>
+
+</resources>

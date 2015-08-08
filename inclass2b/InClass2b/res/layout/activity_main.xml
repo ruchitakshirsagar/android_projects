@@ -1,0 +1,60 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.inclass2b.MainActivity"
+    tools:ignore="MergeRootFrame">
+
+
+<RadioGroup
+    android:id="@+id/radioGroup1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <RadioButton
+        android:id="@+id/rbBlack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="@string/rbBlack" />
+
+    <RadioButton
+        android:id="@+id/rbWhite"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rbWhite" />
+
+    <RadioButton
+        android:id="@+id/rbRed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/rbRed" />
+
+    <RadioButton
+        android:id="@+id/rbGreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="@string/rbGreen" />
+
+    <RadioButton
+        android:id="@+id/rbBlue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:checked="true"
+        android:text="@string/rbBlue" />
+
+</RadioGroup><TextView
+    android:id="@+id/tvAlpha"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/tvAlpha" />
+<SeekBar
+    android:id="@+id/seekBarColor"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+
+
+</LinearLayout>
